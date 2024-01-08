@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "lightImage": "/img/stacks/js.png",
+    "title": "Javascript",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 2,
+    "lightImage": "/img/stacks/ts.png",
+    "title": "Typescript",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 3,
+    "lightImage": "/img/stacks/react.png",
+    "title": "React",
+    "darkImage": "/img/clients/brands/dark/01.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 4,
+    "lightImage": "/img/stacks/next.png",
+    "title": "Next JS",
+    "darkImage": "/img/clients/brands/dark/05.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 5,
+    "lightImage": "/img/stacks/node.png",
+    "title": "NodeJs",
+    "darkImage": "/img/clients/brands/dark/02.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 6,
+    "lightImage": "/img/stacks/firebase.png",
+    "title": "Firebase",
+    "darkImage": "/img/clients/brands/dark/03.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 7,
+    "lightImage": "/img/stacks/mongodb.png",
+    "title": "Mongo Database",
+    "darkImage": "/img/clients/brands/dark/07.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 8,
+    "lightImage": "/img/stacks/aws.png",
+    "title": "AWS",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 9,
+    "lightImage": "/img/stacks/flutter.png",
+    "title": "Flutter",
+    "darkImage": "/img/clients/brands/dark/04.png",
+    "url": "www.avo.com"
+  },
+
+  {
+    "id": 10,
+    "lightImage": "/img/stacks/native.png",
+    "title": "React Native",
+    "darkImage": "/img/clients/brands/dark/06.png",
+    "url": "www.avo.com"
+  },
+
+  {
+    "id": 11,
+    "lightImage": "/img/stacks/java.png",
+    "title": "Java",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  },
+
+  {
+    "id": 12,
+    "lightImage": "/img/stacks/kotlin.png",
+    "title": "Kotlin",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 13,
+    "lightImage": "/img/stacks/django.png",
+    "title": "Django",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 14,
+    "lightImage": "/img/stacks/flask.png",
+    "title": "Flask",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 15,
+    "lightImage": "/img/stacks/rails.png",
+    "title": "Rails",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 16,
+    "lightImage": "/img/stacks/Dotnet.png",
+    "title": ".NET",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  }
+]

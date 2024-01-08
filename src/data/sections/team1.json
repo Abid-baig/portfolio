@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/usama.jpeg",
+    "name": "Usama Bun Khalid",
+    "title": "Senior Backend Developer",
+    "icon1": "fab fa-js fa-2xs",
+    "icon2": "fab fa-node",
+    "icon3": "fab fa-envira ",
+    "icon4": "fab fa-css3-alt"
+  },
+    {
+    "id": 2,
+    "image": "/img/team/farhan.jpeg",
+    "name": "Farhan",
+    "title": "MERN Developer",
+    "icon1": "fab fa-react",
+    "icon2": "fab fa-node",
+    "icon3": "fab fa-js",
+    "icon4": "fab fa-css3"
+
+  },
+  {
+    "id": 3,
+    "image": "/img/team/kami.jpeg",
+    "name": "Kamran",
+    "title": "Senior App Developer",
+    "icon1": "fab fa-android",
+    "icon2": "fas fa-mobile-alt",
+    "icon3": "fab fa-app-store-ios",
+    "icon4": "fab fa-css3"
+  },
+  {
+    "id": 3,
+    "image": "/img/team/usman.jpeg",
+    "name": "Usman",
+    "title": "Senior Frontend Developer",
+    "icon1": "fab fa-react",
+    "icon2": "fab fa-js",
+    "icon3": "fab fa-html5",
+    "icon4": "fab fa-css3"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Full",
+      "second": "Stack Development"
+    },
+    "content": "I specialize in bringing your vision to life through innovative software solutions. Our mission is to foster innovation and excellence, partnering with you on the journey to a brighter digital future.",
+    "image": "/img/slid/hero2"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "App",
+      "second": "Development"
+    },
+    "content": "Empowering Businesses with Smart Software Solutions. My Mission is to Foster Creativity and Excellence. Join me as I Innovate Together for a Brighter Digital Tomorrow.",
+    "image": "/img/slid/hero1"
+  }
+]

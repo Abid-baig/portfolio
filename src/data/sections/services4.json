@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Development",
+        "icon": "pe-7s-monitor",
+        "content": "Crafting digital excellence is my passion. I build user-friendly websites and apps that make your brand shine. Expect stunning designs, lightning-fast performance, and top-notch support."
+    },
+    {
+      "id": 2,
+      "title": "Backend Development",
+      "icon": "pe-7s-server",
+      "content": "Seamless, robust, and scalable backend solutions are my forte. I power your applications with reliable infrastructure, efficient data handling, and secure architecture. My goal is to ensure your technology works flawlessly."
+    },
+    {
+      "id": 3,
+      "title": "App development",
+      "icon": "pe-7s-phone",
+      "content": "Unlock the potential of both Android and iOS platforms with my app development expertise. I create feature-rich, user-friendly applications that captivate and engage my audience. From concept to deployment, I'm committed to bringing your mobile vision to life. "
+    }
+]
