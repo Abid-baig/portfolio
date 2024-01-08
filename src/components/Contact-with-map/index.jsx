@@ -48,7 +48,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                         if (res.status === 200) {
                         } else {
                           setLoading(false);
-                          
+
                         }
                       })
                       .catch((err) => {
@@ -131,7 +131,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 </Split>
                 <div className="item mb-40">
                   <h5>
-                    <a href="#0">engr.abidbaig@gmail.com</a>
+                    <a href="#0">ikhan@zigateway.com</a>
                   </h5>
                   <h5>+1(470)660-3648</h5>
                 </div>
@@ -142,7 +142,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 </Split>
                 <div className="item">
                   <h6>
-                    Brooklyn, New York, USA
+                    Scranton, Pennsylvania, USA
                     <br />
                   </h6>
                 </div>
@@ -170,7 +170,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
         <div className="container">
           <div className="copyrights text-center mt-0">
             <p>
-              <a href="#0">Abid Baig Portfolio</a>.
+              <a href="#0">Imran Khan Portfolio</a>.
             </p>
           </div>
         </div>
