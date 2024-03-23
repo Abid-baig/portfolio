@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
         <title>Imran Khan</title>
         <link rel="icon" href="/img/logo-color.png" />
       </Head>
-      {/* <Cursor /> */}
+      <Cursor />
       <LoadingScreen />
       <ScrollToTop />
       <Component {...pageProps} />
