@@ -131,7 +131,8 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 </Split>
                 <div className="item mb-40">
                   <h5>
-                    <a href="#0">ikhan@zigateway.com</a>
+                    <a href="#0">imransoftwaredev09@gmail.com</a>
+                    <a href="#0"></a>
                   </h5>
                   <h5>+1(470)660-3648</h5>
                 </div>
@@ -140,25 +141,14 @@ const ContactWithMap = ({ theme = "dark" }) => {
                     Address.
                   </h3>
                 </Split>
-                <div className="item">
+                <div style={{ display: 'flex' }} className="item">
                   <h6>
                     Scranton, Pennsylvania, USA
-                    <br />
                   </h6>
-                </div>
-                <div className="social mt-50">
-                  <a href="#0" className="icon">
-                    <i className="fab fa-facebook-f"></i>
+                  <a style={{marginLeft: '16px'}} href="https://github.com/Imran-softwaredev" className="icon">
+                    <i className="fab fa-github"></i>
                   </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-pinterest"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-behance"></i>
-                  </a>
+
                 </div>
               </div>
             </div>
